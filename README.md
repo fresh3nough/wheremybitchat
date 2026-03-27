@@ -13,7 +13,7 @@ No build tools, frameworks, or npm install required. The app is a single self-co
 Clone and serve:
 
 ```bash
-git clone https://github.com/YourUser/wheremybitchat.git
+git clone https://github.com/fresh3nough/wheremybitchat.git
 cd wheremybitchat
 ```
 
